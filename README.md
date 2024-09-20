@@ -12,5 +12,5 @@ I have been on a path of transforming myself from a water/civil engineer into we
 - Attended [DeFi Security 101](https://defisecuritysummit.org/defi-101-2023/) and [DeFi Security Summit](https://defisecuritysummit.org/conference-2023/).
 - I have developed an AI tool for Smart Contract Vulnerability Detection (currently on hold) and another for generating Fuzzing Boilerplate leveraging LLMs for MAMA AI. Hopefully, I will be able make them public someday.
 - In addition to web3-related work, I have also contributed to several projects related to LLMs in MAMA's, where I practiced backend skills and promp engineering.
-- Ocassionally, I fuzz things:
+- Occasionally, I fuzz things:
   - [launchpad-contracts](https://github.com/xluckydegen/launchpad-contracts/tree/main/contracts/echidna) (listed at [Perimeter's list of public fuzzing campaigns](https://github.com/perimetersec/public-fuzzing-campaigns-list?tab=readme-ov-file#echidna--medusa))
